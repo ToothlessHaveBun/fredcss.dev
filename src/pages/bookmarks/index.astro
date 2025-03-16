@@ -9,6 +9,7 @@ import Container from "../../components/ui/Container.astro";
 import ContentList from "../../components/shared/ContentList.astro";
 type Bookmark = CollectionEntry<"bookmarks">;
 import '@fontsource-variable/sora';
+import '@fontsource-variable/geist-mono';
 
 const bookmarks = await getCollection("bookmarks");
 const types = [...new Set(bookmarks.map((bookmark: Bookmark) => bookmark.data.type))];

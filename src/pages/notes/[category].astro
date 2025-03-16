@@ -9,6 +9,7 @@ import BaseHero from "../../components/shared/BaseHero.astro";
 import Container from "../../components/ui/Container.astro";
 type Note = CollectionEntry<"notes">;
 import '@fontsource-variable/sora';
+import '@fontsource-variable/geist-mono';
 
 export const getStaticPaths = (async () => {
   const allNotes = await getCollection("notes");

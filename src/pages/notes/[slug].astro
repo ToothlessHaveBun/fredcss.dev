@@ -3,6 +3,7 @@ import { getCollection, render } from "astro:content";
 import type { GetStaticPaths } from "astro";
 import BaseLayout from "../../components/layout/BaseLayout.astro";
 import '@fontsource-variable/sora';
+import '@fontsource-variable/geist-mono';
 
 export const getStaticPaths = (async () => {
   const notes = await getCollection("notes");
