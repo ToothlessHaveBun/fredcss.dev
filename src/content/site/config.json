@@ -1,0 +1,21 @@
+{
+  "home": {
+    "name": "Frederick Chen",
+    "title": "Student / Developer / Blogger",
+    "introduction": "Hello, I'm a student based in China. I'm interested in web development, programming, and writing. I like to learn new things and share my knowledge with others.",
+    "sections": {
+      "blog": {
+        "title": "Writing",
+        "viewAllText": "View all posts"
+      },
+      "projects": {
+        "title": "Projects",
+        "viewAllText": "View all projects"
+      },
+      "experience": {
+        "title": "Experience",
+        "viewAllText": "View full résumé"
+      }
+    }
+  }
+}
