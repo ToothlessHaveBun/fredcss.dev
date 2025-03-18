@@ -13,7 +13,7 @@
 
 ## Author
 
-fredcss.dev &copy; **[Frederick Chen](https://www.ohdragonboi.cn)** | Publish under [MIT-License](LICENSE).
+fredcss.dev &copy; **[Frederick Chen](https://www.ohdragonboi.cn)** | Published under [MIT-License](LICENSE).
 
 ---
 
